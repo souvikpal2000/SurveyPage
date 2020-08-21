@@ -1,0 +1,102 @@
+body{
+	background : #F4F4F4;
+}
+.container{
+	width : 780px;
+	margin : 0 auto;
+	background : #FFF;
+}
+h1{
+	margin : 0px;
+	color : #869843;
+	font-weight: normal;
+	text-shadow: 2px 5px 5px #887778;
+}
+.header{
+	padding-top : 10px;
+	padding-bottom : 10px;
+	text-align: center;
+	font-size: 20px;
+
+}
+.menu{
+	background : #3b7687;
+	padding-top : 6px;
+	padding-right : 0px;
+	padding-bottom : 6px;
+	padding-left : 40px;
+}
+.menu a{
+	color : #c5d6db;
+	text-decoration : none;
+	font-size : 16px;
+	font-family : "Arial Narrow"; 
+}
+.menu a:hover{
+	color : #ecf2f3;
+}
+.home-image{
+	padding-top: 40px;
+	padding-left: 150px;
+}
+p{
+	margin: 0 auto;
+	font-family: "Arial";
+	padding-left: 65px;
+	padding-right: 65px;
+	padding-bottom: 30px;
+}
+footer{
+	padding-left: 220px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background: #6d6d6d;
+	font-family: "Lucida Sans Unicode";
+	color: white;
+}
+.about-image{
+	width: 500px;
+	height: 110px;
+	padding-top: 20px;
+	padding-left: 170px;
+	padding-bottom: 20px;
+}
+ #sign .form{
+	width: 400px;
+	padding: 10px;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 35px;
+	box-shadow: 0px 9px 13px 5px;
+	border-radius: 5px;
+}
+.form input{
+	width: 100%;
+	border-radius: 5px;
+	height:  20px;
+	background: #D6D6D6;
+}
+.form #submit{
+	color: white;
+	width: 275px;
+	border-radius: 5px;
+	height: 30px;
+	background-color: #3b7687;
+}
+#login .form{
+	width: 400px;
+	padding: 10px;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 35px;
+	box-shadow: 0px 9px 13px 5px;
+	border-radius: 5px;
+}
+.form #text{
+	width: 250px;
+	color: #f58080;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
